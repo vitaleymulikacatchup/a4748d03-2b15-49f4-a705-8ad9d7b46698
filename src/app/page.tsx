@@ -7,14 +7,14 @@ import AboutFeature from "@/components/sections/about/AboutFeature";
 import FeatureCardSix from "@/components/sections/feature/FeatureCardSix";
 import ProductCardTwo from "@/components/sections/product/ProductCardTwo";
 import PricingCardThree from "@/components/sections/pricing/PricingCardThree";
-import MetricCardTwo from "@/components/sections/metric/MetricCardTwo";
+import MetricCardTwo from "@/components/sections/metrics/MetricCardTwo";
 import TeamCardTwo from "@/components/sections/team/TeamCardTwo";
 import TestimonialCardTwo from "@/components/sections/testimonial/TestimonialCardTwo";
 import SocialProofOne from "@/components/sections/socialProof/SocialProofOne";
 import FaqBase from "@/components/sections/faq/FaqBase";
 import ContactCenterForm from "@/components/sections/contact/ContactCenterForm";
 import FooterLogoEmphasis from "@/components/sections/footer/FooterLogoEmphasis";
-import { Award, BarChart3, Crown, Disc3, Handshake, HelpCircle, Heart, Linkedin, MessageSquare, Music, Radio, Sparkles, Star, Users, Volume2 } from "lucide-react";
+import { Award, BarChart3, Crown, Disc3, Handshake, HelpCircle, Heart, Linkedin, MessageSquare, Music, Radio, Sparkles, Star, Users, Volume2, Instagram } from "lucide-react";
 
 export default function Home() {
   return (
@@ -348,6 +348,10 @@ export default function Home() {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763039749567-ehrtd2cp.jpg",
               imageAlt: "Sarah Chen - Vinyl Specialist",
               socialLinks: [
+                {
+                  icon: Instagram,
+                  url: "https://instagram.com/sarah_vinyl"
+                },
                 {
                   icon: Music,
                   url: "https://mixcloud.com/sarah-chen"
