@@ -100,7 +100,7 @@ export default function Home() {
           features={[
             {
               id: 1,
-              title: "Authentic Sourcing",
+              title: "Authentic Sourcing Text",
               description: "We work directly with record labels and certified dealers to ensure every vinyl record is genuine and in pristine condition.",
               imageSrc: "https://pixabay.com/get/g9c02dc8b7a38961eabbf2bdc67964219641b2e2ffff34c82ebe1e1659ed403b2e9cfe9df5c7557a8e067ba164510385fc63d4229ca9875cadc20195d1dbef747_1280.jpg",
               imageAlt: "Authentic vinyl record sourcing process"
