@@ -89,7 +89,7 @@ export const metadata: Metadata = {
     url: "https://vinylvibe.com",
     siteName: "VinylVibe",
     images: [{
-      url: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763039733140-9ap06969.jpg",
+      url: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763039734951-generation-image.jpg",
       alt: "Premium vinyl records and turntable collection"
     }],
     type: "website"
@@ -98,7 +98,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "VinylVibe - Premium Vinyl Records & Turntables",
     description: "Discover the finest selection of vintage vinyl records and professional turntables.",
-    images: ["https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763039733140-9ap06969.jpg"]
+    images: ["https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763039734951-generation-image.jpg"]
   },
   robots: {
     index: true,
