@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleMinimal from "@/components/navbar/NavbarStyleMinimal";
@@ -14,7 +14,7 @@ import SocialProofOne from "@/components/sections/socialProof/SocialProofOne";
 import FaqBase from "@/components/sections/faq/FaqBase";
 import ContactCenterForm from "@/components/sections/contact/ContactCenterForm";
 import FooterLogoEmphasis from "@/components/sections/footer/FooterLogoEmphasis";
-import { Award, BarChart3, Crown, Disc3, Hand shakeUser, HelpCircle, Heart, Linkedin, MessageSquare, Music, Radio, Sparkles, Star, Users, Volume2 } from "lucide-react";
+import { Award, BarChart3, Crown, Disc3, Handshake, HelpCircle, Heart, Linkedin, MessageSquare, Music, Radio, Sparkles, Star, Users, Volume2 } from "lucide-react";
 
 export default function Home() {
   return (
@@ -348,10 +348,6 @@ export default function Home() {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763039749567-ehrtd2cp.jpg",
               imageAlt: "Sarah Chen - Vinyl Specialist",
               socialLinks: [
-                {
-                  icon: "Instagram",
-                  url: "https://instagram.com/sarah_vinyl"
-                },
                 {
                   icon: Music,
                   url: "https://mixcloud.com/sarah-chen"
