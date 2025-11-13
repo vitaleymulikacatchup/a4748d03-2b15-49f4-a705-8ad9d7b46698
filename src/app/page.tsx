@@ -46,7 +46,7 @@ export default function Home() {
           description="Discover the finest selection of vintage records and professional turntables for audiophiles and DJs worldwide"
           tag="Music Excellence"
           tagIcon={Music}
-          imageSrc="https://pixabay.com/get/g821861f24f06a7895dfd98c79bbc7a390247646b895ebf3e03cca09ba32fce873415a758e6361f1ac782130cf56eca7659b534f7b43382e8545e39ac5fbbca12_1280.jpg"
+          imageSrc="https://pixabay.com/get/g5191bf9c5441af5a7ebda6deebc77ad8c1691d4cfdb4022f2277794f36c2562fba5a5cec40e0ee73b0da291323e9e550598a16d281e4f2b787afdbca7d19aff0_1280.jpg"
           imageAlt="Burning Man festival scene with art installation"
           frameStyle="card"
           buttons={[
@@ -102,7 +102,7 @@ export default function Home() {
               id: 1,
               title: "Authentic Sourcing",
               description: "We work directly with record labels and certified dealers to ensure every vinyl record is genuine and in pristine condition.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763039737631-cgyz4s5y.jpg",
+              imageSrc: "https://pixabay.com/get/g9c02dc8b7a38961eabbf2bdc67964219641b2e2ffff34c82ebe1e1659ed403b2e9cfe9df5c7557a8e067ba164510385fc63d4229ca9875cadc20195d1dbef747_1280.jpg",
               imageAlt: "Authentic vinyl record sourcing process"
             },
             {
