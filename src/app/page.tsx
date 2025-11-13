@@ -109,7 +109,7 @@ export default function Home() {
               id: 2,
               title: "Professional Testing",
               description: "Every turntable undergoes comprehensive testing by our audio technicians to guarantee optimal performance and sound quality.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763039734622-zmnd00tl.jpg",
+              imageSrc: "https://pixabay.com/get/gc5b550f069544189afe58f4737d28ffdb1b9d475d848abb8ea77eacdd42b3ceef277e94e8561f61c437d317141b723a648ea1de05a8749c05ae32818ce1d3d22_1280.jpg",
               imageAlt: "Professional turntable testing process"
             },
             {
