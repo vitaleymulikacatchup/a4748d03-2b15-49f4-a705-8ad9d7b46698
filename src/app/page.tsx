@@ -102,14 +102,14 @@ export default function Home() {
               id: 1,
               title: "Authentic Sourcing Text",
               description: "We work directly with record labels and certified dealers to ensure every vinyl record is genuine and in pristine condition.",
-              imageSrc: "https://pixabay.com/get/g9c02dc8b7a38961eabbf2bdc67964219641b2e2ffff34c82ebe1e1659ed403b2e9cfe9df5c7557a8e067ba164510385fc63d4229ca9875cadc20195d1dbef747_1280.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763109617280-oshhamlw.jpg",
               imageAlt: "Authentic vinyl record sourcing process"
             },
             {
               id: 2,
               title: "Professional Testing",
               description: "Every turntable undergoes comprehensive testing by our audio technicians to guarantee optimal performance and sound quality.",
-              imageSrc: "https://pixabay.com/get/gc5b550f069544189afe58f4737d28ffdb1b9d475d848abb8ea77eacdd42b3ceef277e94e8561f61c437d317141b723a648ea1de05a8749c05ae32818ce1d3d22_1280.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763109617870-2p36lgrn.jpg",
               imageAlt: "Professional turntable testing process"
             },
             {
@@ -344,8 +344,8 @@ export default function Home() {
               id: "2",
               name: "Sarah Chen",
               role: "Vinyl Specialist",
-              description: "DJ and vinyl collector with expertise in rare pressings and limited editions from the 60s-90s era.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763039749567-ehrtd2cp.jpg",
+              description: "DJ and vinyl collector with expertise in rare pressings and limited editions from the 60s-90s era. Great Time!",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763109618461-qs5hya01.jpg",
               imageAlt: "Sarah Chen - Vinyl Specialist",
               socialLinks: [
                 {
