@@ -46,7 +46,7 @@ export default function Home() {
           description="Discover the finest selection of vintage records and professional turntables for audiophiles and DJs worldwide"
           tag="Music Excellence"
           tagIcon={Music}
-          imageSrc="https://pixabay.com/get/g5191bf9c5441af5a7ebda6deebc77ad8c1691d4cfdb4022f2277794f36c2562fba5a5cec40e0ee73b0da291323e9e550598a16d281e4f2b787afdbca7d19aff0_1280.jpg"
+          imageSrc="https://pixabay.com/get/g52a206f14c36f6ced6f9d261219565799dc6a68c25ea47767712cad4fe0188f1c20e6c935d798066855590f747e6872a5afc54de5b560f2d1e8cef6878146403_1280.jpg"
           imageAlt="Burning Man festival scene with art installation"
           frameStyle="card"
           buttons={[
